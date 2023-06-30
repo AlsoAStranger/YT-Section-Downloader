@@ -1,7 +1,8 @@
 <div align="center">
  
-![Logo](https://github.com/AlsoAStranger/YT-Section-Downloader/assets/137929175/bb18586b-f931-4d38-b6aa-55643226498a)
-
+ <img src=https://github.com/AlsoAStranger/YT-Section-Downloader/assets/137929175/4dd47c12-3521-4334-80e2-82bfd7c1d3c7 width="250" height="250">
+</img>
+ 
 # Youtube Section Downloader
 </div>
 
