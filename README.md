@@ -1,7 +1,6 @@
 <div align="center">
-
-![Logo](https://github.com/AlsoAStranger/YT-Section-Downloader/assets/137929175/6b360fb5-bd3c-4bdb-b243-5c5f539f3e63)
-
+ 
+![Logo](https://github.com/AlsoAStranger/YT-Section-Downloader/assets/137929175/bb18586b-f931-4d38-b6aa-55643226498a)
 
 # Youtube Section Downloader
 </div>
@@ -88,5 +87,5 @@ I'd be glad to know that other people are in need of something like this and tha
  - [**Visual Studio**](https://visualstudio.microsoft.com/), because... because that's what I used to make this.
 
 ## Preview
-![disabled](https://github.com/AlsoAStranger/YT-Section-Downloader/assets/137929175/244f468a-5f74-4059-9e4d-3618f7a60fdc)
-![enabled](https://github.com/AlsoAStranger/YT-Section-Downloader/assets/137929175/44690b61-4d0c-4429-a199-1bb5a52db4a5)
+![disabled](https://github.com/AlsoAStranger/YT-Section-Downloader/assets/137929175/430149b1-f36d-46b9-91cd-8862e7d0aa07)
+![enabled](https://github.com/AlsoAStranger/YT-Section-Downloader/assets/137929175/c3c5826e-af1b-4c48-9237-009a37f99e7b)
