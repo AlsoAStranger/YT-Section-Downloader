@@ -20,6 +20,9 @@ I decided to not upload the rest of the project files as those are automatically
 
 [**Get the code here**](https://github.com/AlsoAStranger/YT-Section-Downloader/blob/main/VS%20Source%20Code%20and%20Form%20Designer/Form.vb)
 
+Alternatively, you can download the [python edition](https://github.com/AlsoAStranger/YT-Section-Downloader/tree/python-edition)!  
+[**Download it here**](https://github.com/AlsoAStranger/YT-Section-Downloader/releases/latest/download/Youtube.Section.Downloader.exe)
+
 ## Issues
 
 #### **Issue #1: False Positive**
