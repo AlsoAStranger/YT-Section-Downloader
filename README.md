@@ -22,7 +22,7 @@ I've uploaded the python script, which you can find in the "Source Code" folder.
 Note that to run the script, [Gooey](https://github.com/chriskiehl/Gooey) is required.
 
 
-[**Get the code here**](https://github.com/AlsoAStranger/YT-Section-Downloader/tree/python-edition/Source Code/Yotuube Section Downloader.pyw)
+[**Get the code here**](https://github.com/AlsoAStranger/YT-Section-Downloader/blob/python-edition/Source%20Code/Youtube%20Section%20Downloader.pyw)
 
 ## Issues
 
