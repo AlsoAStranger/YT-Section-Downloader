@@ -84,7 +84,7 @@ However, some limited testing showed that sometimes it caps the resolution at 10
  ***Important:** The code was made to work with yt-dlp and ffmpeg added to the [**PATH Environment Variable**](https://learn.microsoft.com/en-us/previous-versions/office/developer/sharepoint-2010/ee537574(v=office.14)).*
 ## Acknowledgements
 
- - [**Gooey**]([https://yd.3dyd.com/home/](https://github.com/chriskiehl/Gooey)), which I used to create the GUI.
+ - [**Gooey**](https://github.com/chriskiehl/Gooey), which I used to create the GUI.
  - [**ChatGPT**](https://openai.com/blog/chatgpt), which helped me troubleshoot and write the code.
  - [**VSCode**](https://code.visualstudio.com/), which I used to write and test the code.
 
